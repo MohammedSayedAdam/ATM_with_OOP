@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\users\city\documents\visual studio 2015\projects\atm_usecase_diagram\atm_usecase_diagram\main.cpp(126): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\city\documents\visual studio 2015\projects\atm_usecase_diagram\atm_usecase_diagram\main.cpp(179): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\city\documents\visual studio 2015\projects\atm_usecase_diagram\atm_usecase_diagram\main.cpp(194): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\city\documents\visual studio 2015\projects\atm_usecase_diagram\atm_usecase_diagram\main.cpp(210): warning C4305: 'argument': truncation from 'int' to 'float'
+  ATM_UseCase_Diagram.vcxproj -> c:\users\city\documents\visual studio 2015\Projects\ATM_UseCase_Diagram\Debug\ATM_UseCase_Diagram.exe
+  ATM_UseCase_Diagram.vcxproj -> c:\users\city\documents\visual studio 2015\Projects\ATM_UseCase_Diagram\Debug\ATM_UseCase_Diagram.pdb (Full PDB)
